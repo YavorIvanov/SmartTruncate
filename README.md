@@ -3,13 +3,13 @@
 smart_truncate is a simple Rails gem that truncates text like a human.
 Ever wanted to truncate some text till the Ntn character only to find a word or sentence was cut in half? SmartTruncate fixes that."
 
-# INSTALL
+## INSTALL
 
 ``` ruby
 gem 'smart_truncate'
 ```
 
-# BASIC smart_truncate USE
+## BASIC smart_truncate USE
 
 ``` ruby
 # truncate by characters and it will end in a meaningful word
@@ -27,6 +27,6 @@ SmartTruncate.by_mixed("I am a nice sentance. Previous sentence is with a proper
 # => "I am a nice sentance."
 ```
 
-# LICENSE
+## LICENSE
 
 This project uses MIT-LICENSE.

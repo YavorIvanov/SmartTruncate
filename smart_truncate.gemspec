@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.version     = SmartTruncate::VERSION
   s.authors     = ["Yavor Ivanov"]
   s.email       = ["yavor.dimitrov.ivanov@gmail.com"]
-  s.homepage    = "http://upliftedself.com"
-  s.summary     = "Human like truncating of text."
+  s.homepage    = "https://github.com/YavorIvanov/SmartTruncate"
+  s.summary     = "smart_truncate is a simple Rails gem that truncates text like a human."
   s.description = "Ever wanted to truncate some text till the Ntn character only to find a word or sentence was cut in half? SmartTruncate fixes that."
   s.license     = "MIT"
 
