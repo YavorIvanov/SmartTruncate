@@ -6,7 +6,7 @@ Ever wanted to truncate some text till the Ntn character only to find a word or 
 ## INSTALL
 
 ``` ruby
-gem 'smart_truncate'
+gem install smart_truncate
 ```
 
 ## BASIC smart_truncate USE
